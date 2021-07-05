@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilienG
-- 👀 I’m interested in ACG
-- my FF14 account: CHINA-MAOXIAOPANG-ZISHUIZHANQIAO-雪城冰梦
+- 👀 I’m interested in game
+- my FF14 account: CHINA-MAOXIAOPANG-ZISHUIZHANQIAO-XUECHENGBINGMENG
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on NONE
 - 📫 How to reach me 
